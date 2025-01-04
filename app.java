@@ -1,6 +1,6 @@
 Const express=require("express") ;
 Const app=express() ;
-App get('/', (req, res) = >{
+app get('/', (req, res) = >{
 res. Send("Hello world, Iam from nikitha") ;
 }) ;
 app.listen(3020, () = >{
